@@ -1,8 +1,6 @@
 ---
 layout: post
-title: Let's get cracking
+title: This is an independent Pac-Man
 ---
-
-Here's a p5 example
 
 <iframe data-src='/p5/first' style='height: 400px'></iframe>
